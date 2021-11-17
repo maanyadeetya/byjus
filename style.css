@@ -1,0 +1,42 @@
+body{
+ text-align: center;
+  background: linear-gradient( #B2EBF2 0%, #CE93D8 100%);
+  background-repeat: no-repeat;
+  }
+
+img {
+  width: 200px;
+   margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: 'Shadows Into Light', cursive;
+  text-shadow: 2px 2px #4FC3F7;
+  font-size:20px;
+  
+}
+
+#bio{
+  
+padding: 20px;
+  font-size: 18;
+  text-align:center;
+  
+}
+
+.menu{
+    text-align: center;
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+        
+}
+
+li:hover{
+    background-color: skyblue
+}
